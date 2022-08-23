@@ -1,0 +1,41 @@
+.mapping{
+    position: relative;
+    width: 100%;
+}
+.mapping__zoomcontrol{
+    position: absolute;
+    bottom: 100px;
+    left: 20px;
+    transition:all 0.5s ease-in-out;
+}
+
+@media only screen and (max-height: 850px) {
+    .mapping__zoomcontrol{
+        position: absolute;
+        bottom: 150px;
+        left: 20px;
+    }
+}
+@media only screen and (max-height: 800px) {
+    .mapping__zoomcontrol{
+        position: absolute;
+        bottom: 220px;
+        left: 20px;
+    }
+}
+
+@media only screen and (max-height: 750px) {
+    .mapping__zoomcontrol{
+        position: absolute;
+        bottom: 270px;
+        left: 20px;
+    }
+}
+
+@media only screen and (max-height: 685px) {
+    .mapping__zoomcontrol{
+        position: absolute;
+        bottom: 320px;
+        left: 20px;
+    }
+}
