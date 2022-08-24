@@ -1,6 +1,7 @@
 .mapping{
     position: relative;
     width: 100%;
+    height: auto;
 }
 .mapping__zoomcontrol{
     position: absolute;

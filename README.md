@@ -4,5 +4,6 @@ For Map     : Pigeon Maps - https://pigeon-maps.js.org/docs/map <br/>
 For styling : Mui <br/>
 FramerWork  : React <br/>
 
-![IMG](Map_desktop.jpg)
+![IMG](Map_desktop.jpg) 
+<br/>
 ![IMG](map_mobile.jpg)
